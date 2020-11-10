@@ -1,0 +1,1 @@
+print("RStudio İlk Uygulamam...")
